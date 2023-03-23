@@ -8,4 +8,4 @@ Calculation of the second power of a number with the help of neural networks
 If you have your own dataset, you can train the neural network model with your own data.
 # step 3 Open the file and run it.
 file y =x-2   
-Train on more data: Your model is only trained on a single input value generated randomly. Consider using a larger dataset with a variety of input values to train your model and improve its accuracy.
+Train on more data: Your model is only trained on a single input value generated randomly. Consider using a larger dataset with a variety of input values to train your model and improve its accuracy
